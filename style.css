@@ -382,7 +382,7 @@ body.loaded {
   top: 100%;
   left: 50%;
   transform: translateX(-50%);
-  transition: all .75s ease;
+  transition: all .50s ease;
   font-family: 'Cinzel';
 }
 
