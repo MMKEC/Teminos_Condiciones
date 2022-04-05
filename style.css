@@ -437,7 +437,7 @@ body.loaded {
 }
 
 .about h1 {
-  font-family: 'Lato', serif, sans-serif;
+  font-family: Montserrat, sans-serif;;
   font-weight: 100;
   font-size: 40px;
   margin-top: 100px;
@@ -446,7 +446,6 @@ body.loaded {
 #mission {
   margin-top: 80px;
   font-family: Montserrat, sans-serif;
-  font-style: italic;
   font-size: 20px;
   color: #999;
   width: 70%;
